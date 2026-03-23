@@ -3,6 +3,7 @@
 <p align="center">
   📚 Repositório de estudos focado em lógica de programação e algoritmos <br>
   ⚙️ Desenvolvido com Portugol (Visualg) <br>
+  📦 +60 exercícios organizados <br>
 </p>
 
 ---
